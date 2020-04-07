@@ -1,0 +1,11 @@
+.body{color:orange ;background-color: black}
+a:link {color: orange }
+a:visited {color: green}
+a:hover {color: aqua}
+a:active {color: red}
+h1, h2, {text-align: center}
+hr {color: red; background-color: red; height: 1px}
+.new {color: orange}
+.nav{background-image: black.jpg}
+#form{float: right}
+.para{font-family: "Verdana", "Arial", "Helvetica", sans-serif; font-size: 13px}
